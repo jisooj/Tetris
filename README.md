@@ -22,3 +22,6 @@
   
 ##AI:
   Check the check box to autoplay tetris. This one is not intelligent at all!
+
+##How to run it:
+  Tetris.java contains main method. Compile this file and run it.  
